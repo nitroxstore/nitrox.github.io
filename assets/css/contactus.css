@@ -1,0 +1,25 @@
+.text-center{
+    margin: 10px;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.form-input{
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    background-color: transparent;
+}
+
+.btn{
+    text-align: center;
+    padding: 0 24px;
+    width: 100%;
+    margin: 5px 3px;
+    border: 2px solid white;
+    border-radius: 8px;
+    background: none;
+    color: white;
+    cursor: pointer;
+}
